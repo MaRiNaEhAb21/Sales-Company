@@ -3,8 +3,7 @@ This repository contains a Power BI project analyzing the sales performance of C
 
 ## Table Of Contents
 - [Project Overview](#project-overview).
-- [Data Source](#data-source)
-- [Exploratory Data Anaysis](#exploratory-data-analysis)
+- [Key Metrics](#key-metrics).
 
 
 
